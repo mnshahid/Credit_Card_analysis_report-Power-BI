@@ -14,7 +14,8 @@ Total Transaction Count: 655.7K
 A detailed breakdown of revenue and interest earned by customer profession shows that Businessmen and White-collar professionals contribute the highest revenue and interest.
 
 💳 Card Usage Breakdown:
-Chip Transactions: 63.12% (Most used)
+Chip Transactions: 
+63.12% (Most used)
 
 Swipe: 30.67%
 
